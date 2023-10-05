@@ -34,5 +34,6 @@ public class ListDemo {
         for (String s:linkerList) {
             System.out.println(s);
         }
+
     }
 }
